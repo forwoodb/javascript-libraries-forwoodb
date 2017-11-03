@@ -22,4 +22,4 @@ You'll cover the following topics:
 
 Download this repository to your computer and then follow the video to walk through the exercise.
 
-1. [Using a Library](https://youtu.be/IH9fUHQzwXw)
+1. [Using a Library](https://youtu.be/iPKrfy2rCRU)
