@@ -17,3 +17,9 @@ You'll cover the following topics:
 * Adding a library in the browser
 * Using the library
 * Seeing the benefits (less code!)
+
+## Video Walk-Through
+
+Download this repository to your computer and then follow the video to walk through the exercise.
+
+1. [Using a Library](https://youtu.be/IH9fUHQzwXw)
