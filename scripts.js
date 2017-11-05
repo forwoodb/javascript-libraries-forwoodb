@@ -6,7 +6,7 @@ document.getElementById("current-date").textContent = dateString;
 
 
 function startTime() {
-  const now = momwnt();
+  const now = moment();
   const timeString = now.format("hh:mm:ss a");
   document.getElementById("current-time").textContent = timeString;
 
